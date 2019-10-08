@@ -1,0 +1,34 @@
+.ui.borderless.topmenu.menu{
+  box-shadow: none;
+  border: none;
+}
+.text{
+  font-family: 'Open Sans', sans-serif;
+  color: #666666;
+  font-size: 14px;
+}
+.middle{
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+.middletext{
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  font-size: large;
+  padding-top: 21%;
+  padding-left: 15px;
+  padding-right: 60px;
+}
+.footer {
+  background-color: #004030;
+  height: 110px;
+}
+.bottom.item {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+}
+.main img{
+  padding-top: 15%;
+  padding-left: 50px;
+}
